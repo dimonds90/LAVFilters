@@ -82,7 +82,7 @@ configure() (
 )
 
 build() (
-  make -j8
+  make
 )
 
 echo Building ffmpeg in MSVC Debug config...
